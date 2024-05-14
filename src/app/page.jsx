@@ -25,7 +25,7 @@ const Homepage = () => {
           {/* DESCRPITION */}
           <p className="md:text-xl">
             Welcome to my digital playground where I turn ideas into interactive
-            realities. I'm Aditya Pratap Singh Ravat, a passionate web developer
+            realities. Myself Aditya Pratap Singh Ravat, a passionate web developer
             with a keen eye for design and a knack for crafting seamless digital
             experiences. Explore my portfolio to see a collection of my latest
             projects.
